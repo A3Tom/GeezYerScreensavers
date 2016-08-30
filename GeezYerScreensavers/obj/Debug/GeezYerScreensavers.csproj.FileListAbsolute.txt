@@ -1,0 +1,15 @@
+c:\users\tsmith\documents\visual studio 2013\Projects\GeezYerScreensavers\GeezYerScreensavers\bin\Debug\GeezYerScreensavers.exe.config
+c:\users\tsmith\documents\visual studio 2013\Projects\GeezYerScreensavers\GeezYerScreensavers\bin\Debug\NLog.config
+c:\users\tsmith\documents\visual studio 2013\Projects\GeezYerScreensavers\GeezYerScreensavers\bin\Debug\GeezYerScreensavers.exe
+c:\users\tsmith\documents\visual studio 2013\Projects\GeezYerScreensavers\GeezYerScreensavers\bin\Debug\GeezYerScreensavers.pdb
+c:\users\tsmith\documents\visual studio 2013\Projects\GeezYerScreensavers\GeezYerScreensavers\bin\Debug\Ninject.dll
+c:\users\tsmith\documents\visual studio 2013\Projects\GeezYerScreensavers\GeezYerScreensavers\bin\Debug\NLog.dll
+c:\users\tsmith\documents\visual studio 2013\Projects\GeezYerScreensavers\GeezYerScreensavers\bin\Debug\Ninject.xml
+c:\users\tsmith\documents\visual studio 2013\Projects\GeezYerScreensavers\GeezYerScreensavers\bin\Debug\NLog.xml
+c:\users\tsmith\documents\visual studio 2013\Projects\GeezYerScreensavers\GeezYerScreensavers\obj\Debug\GeezYerScreensavers.exe
+c:\users\tsmith\documents\visual studio 2013\Projects\GeezYerScreensavers\GeezYerScreensavers\obj\Debug\GeezYerScreensavers.pdb
+c:\users\tsmith\documents\visual studio 2013\Projects\GeezYerScreensavers\GeezYerScreensavers\bin\Debug\Microsoft.WindowsAPICodePack.dll
+c:\users\tsmith\documents\visual studio 2013\Projects\GeezYerScreensavers\GeezYerScreensavers\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+c:\users\tsmith\documents\visual studio 2013\Projects\GeezYerScreensavers\GeezYerScreensavers\bin\Debug\Microsoft.WindowsAPICodePack.xml
+c:\users\tsmith\documents\visual studio 2013\Projects\GeezYerScreensavers\GeezYerScreensavers\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+c:\users\tsmith\documents\visual studio 2013\Projects\GeezYerScreensavers\GeezYerScreensavers\obj\Debug\GeezYerScreensavers.csprojResolveAssemblyReference.cache

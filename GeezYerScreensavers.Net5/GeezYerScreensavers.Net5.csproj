@@ -14,7 +14,10 @@
 
   <ItemGroup>
     <Reference Include="Microsoft.WindowsAPICodePack">
-      <HintPath>..\..\Windows-API-Code-Pack-1.1\source\WindowsAPICodePack\Core\bin\Debug\net5.0-windows\Microsoft.WindowsAPICodePack.dll</HintPath>
+      <HintPath>..\Microsoft.WindowsAPICodePack.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.WindowsAPICodePack.Shell">
+      <HintPath>..\Microsoft.WindowsAPICodePack.Shell.dll</HintPath>
     </Reference>
   </ItemGroup>
 

@@ -44,8 +44,8 @@ foreach (var file in Directory.GetFiles(saveTargetDir))
 
     var destinationFolder = sortFile switch
     {
-        { Width: >= 1920 } and { Height: >= 1080 } => "Portrait",
-        { Width: >= 1080 } and { Height: >= 1920 } => "Wallpapers",
+        { Width: >= 1920 } and { Height: >= 1080 } => "Wallpapers",
+        { Width: >= 1080 } and { Height: >= 1920 } => "Portrait",
         _ => "Other"
     };
 
